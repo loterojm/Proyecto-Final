@@ -4,7 +4,7 @@ Este proyecto constituye un comercio electrónico desarrollado en el marco del c
 
 ## Descripción
 
-El proyecto  es una implementación de una ecomerce mobile, donde se puede comprar productos y gnerar ordenes, tambien se utilizo la camara del celular , el gps y otras features
+El proyecto  es una implementación de una ecomerce mobile, donde se puede comprar productos y gnerar ordenes
 
 Obviamente todo, tanto usuario, productos, como ordenes van a una base de datos manejada en Firebase
 
